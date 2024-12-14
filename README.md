@@ -28,3 +28,4 @@ In this project, we use  customer data, including various features to build a pr
 - Matplotlib
 - Seaborn
 - XGBoost
+- Streamlit
